@@ -191,8 +191,7 @@ void loop()
 |    3 |               27 |           64 |
 
 The observed values may vary depending on the DHT11 sensor readings or Wokwi simulation values.
-
-<img width="516" height="387" alt="images" src="https://github.com/user-attachments/assets/5e280bf9-7ae5-4da1-aa09-8c85631263d7" />
+<img width="1532" height="730" alt="image" src="https://github.com/user-attachments/assets/f01ac6b4-6c2b-43e4-bcff-49b7c634f8cc" />
 
 ## EXPECTED OUTPUT
 
