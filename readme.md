@@ -192,6 +192,7 @@ void loop()
 
 The observed values may vary depending on the DHT11 sensor readings or Wokwi simulation values.
 <img width="1532" height="730" alt="image" src="https://github.com/user-attachments/assets/f01ac6b4-6c2b-43e4-bcff-49b7c634f8cc" />
+<img width="731" height="1600" alt="WhatsApp Image 2026-09-26 at 10 42 00 AM" src="https://github.com/user-attachments/assets/a4dbb2a4-b017-4278-b0cb-902f522d5ece" />
 
 ## EXPECTED OUTPUT
 
